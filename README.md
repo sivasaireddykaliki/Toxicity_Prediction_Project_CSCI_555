@@ -1,7 +1,6 @@
 # Course Name: Data Mining and Machine Learning- 202310-CSCI-555.20
  - Project Name: The Toxicity Prediction Challenge II
  - Student Name & Id: Siva Sai Reddy Kaliki (202004650)
- - Student Email: x2020eub@stfx.ca
  - Supervisor: Dr. Othman Soufan
  - Program : Master of Applied Computer Science
  - University: St. Francis Xavier University, Antigonish, Nova Scotia, Canada
